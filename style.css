@@ -1,0 +1,35 @@
+h1{
+
+color: rgb(40, 2, 75);
+
+
+}
+
+img{
+
+height: 250px;
+width: 300px;
+
+}
+
+img.img_2{
+
+
+height: 300px;
+width: 350px;
+
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
